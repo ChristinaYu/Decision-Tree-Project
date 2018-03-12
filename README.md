@@ -13,7 +13,7 @@ To run the project, please use the makefile with the command:<br/>
 make -f makefile arg1="E" arg2="95" <br/>
 <br/>
 Input options: <br/>
-arg1="E" to choose building a decision tree with InfoGain and entropy<br/>
+arg1="E" to choose building a decision tree with InfoGain and Entropy<br/>
 arg1="G" to choose building a decision tree with Gini index<br/>
 arg2="99" to choose confidence level of 99%<br/>
 arg2="95" to choose confidence level of 95%<br/>
